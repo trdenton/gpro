@@ -1,0 +1,7 @@
+requirements:
+scipy, pylab/matplotlib, numpy
+
+usage:
+./gpro.py data/test.wav
+
+right now the program creates a plot that sort-of shows where notes are struck
